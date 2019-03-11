@@ -5,7 +5,7 @@
 
 ### Добро пожаловать в репозиторий
 
-Источник знаний о коде [HTML](https://www.youtube.com/watch?v=5pBcKKiZSGE)
+Источники знаний о коде [HTML](https://www.youtube.com/watch?v=5pBcKKiZSGE) / [CSS](https://www.youtube.com/watch?v=iPV5GKeHyV4)
 
 При создании данной формы я научился работать с такими языками разметки, как CSS и HTML, а также работать с прототипами в приложении Figma.
 Как итог, я получил работающую форму с современным дизайном.
