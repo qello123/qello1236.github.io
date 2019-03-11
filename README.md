@@ -7,5 +7,17 @@
 
 Источники знаний о коде [HTML](https://www.youtube.com/watch?v=5pBcKKiZSGE) / [CSS](https://www.youtube.com/watch?v=iPV5GKeHyV4)
 
+Использованные программы:
+-------------------------
+
+[Notepad++](https://notepad-plus-plus.org/)
+
+[Figma](https://www.figma.com)
+
+[GitHub](https://github.com)
+
+Чему я научился:
+----------------
+
 При создании данной формы я научился работать с такими языками разметки, как CSS и HTML, а также работать с прототипами в приложении Figma.
 Как итог, я получил работающую форму с современным дизайном.
