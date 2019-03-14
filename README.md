@@ -17,7 +17,7 @@
 [GitHub](https://github.com)
 
 
-Ссылка на проект:
+[Ссылка](qello123.github.io) на проект
 -----------------
 qello123.github.io
 
